@@ -1,0 +1,6 @@
+C:\Users\meta42games\Desktop\DataStructure\Bit\bin\Debug\Bit.exe.config
+C:\Users\meta42games\Desktop\DataStructure\Bit\bin\Debug\Bit.exe
+C:\Users\meta42games\Desktop\DataStructure\Bit\bin\Debug\Bit.pdb
+C:\Users\meta42games\Desktop\DataStructure\Bit\obj\Debug\Bit.csprojResolveAssemblyReference.cache
+C:\Users\meta42games\Desktop\DataStructure\Bit\obj\Debug\Bit.exe
+C:\Users\meta42games\Desktop\DataStructure\Bit\obj\Debug\Bit.pdb
